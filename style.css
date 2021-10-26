@@ -1,0 +1,133 @@
+ /* .box{
+    
+    border: solid;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: red;
+    
+    
+    
+} */
+ /* .fox{
+    border: solid;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    background-color: gold; 
+    
+}   
+
+
+
+
+  .box{
+    border: solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    
+    text-align: center;
+
+    
+}   */
+
+ /* .fox{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: gold;
+}  */
+
+
+
+
+
+/* .btnRed{
+    border: solid;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    margin-left: 800px;
+    margin-top: 200px;
+    position:absolute;
+    display: block;
+    
+    
+
+}
+.btnGreen{
+    border: solid;
+    width: 150px;
+    height: 50px;
+    background-color:green;
+    margin-left: 600px;
+    margin-top: 200px;
+    position:absolute;
+    display: block;
+    
+} */
+
+
+/*      
+     
+.box{
+    border: solid;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    transform: translate(-50%, -50%);
+    
+    
+}     
+    
+
+.fox{
+    border: solid;
+    width: 50%;
+    height: 500px;
+    position: absolute;
+    margin-left: 600px;
+    
+} */
+
+
+
+/* .add{
+    border: solid;
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    left: 800px;
+    
+}
+.box{
+    border: solid black;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+}
+.box1{
+    border: solid black;
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    text-align: right;
+}
+.text{
+    border:solid;
+    width: 249px;
+    height: 249px;
+    position: absolute; */
+    
+    
+
+.a1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+}
